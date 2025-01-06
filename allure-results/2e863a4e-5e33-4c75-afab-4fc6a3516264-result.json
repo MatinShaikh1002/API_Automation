@@ -1,0 +1,61 @@
+{
+  "uuid": "2e863a4e-5e33-4c75-afab-4fc6a3516264",
+  "historyId": "24c08efd0507065459028abe8517c358",
+  "fullName": "BDDStyle_APITesting.GET.Test_GET_Request_NEGATIVE",
+  "labels": [
+    {
+      "name": "package",
+      "value": "BDDStyle_APITesting.GET"
+    },
+    {
+      "name": "testClass",
+      "value": "BDDStyle_APITesting.GET"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test_GET_Request_NEGATIVE"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:/Users/shaik/IdeaProjects/API_Automation/src/test/java/BDDStyle_APITesting/GET.java"
+    },
+    {
+      "name": "subSuite",
+      "value": "BDDStyle_APITesting.GET"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-6PVDP05M"
+    },
+    {
+      "name": "thread",
+      "value": "16440@LAPTOP-6PVDP05M.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Test_GET_Request_NEGATIVE",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734232061325,
+  "stop": 1734232061927
+}

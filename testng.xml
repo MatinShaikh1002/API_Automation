@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/shaik/IdeaProjects/API_Automation">
+        <classes>
+            <class name="BDDStyle_APITesting.GET">
+                <methods>
+                    <include name="Test_GET_Request_POSITIVE"/>
+                    <include name="Test_GET_Request_NEGATIVE"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
